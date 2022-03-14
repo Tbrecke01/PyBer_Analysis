@@ -5,9 +5,11 @@ The purpose of this project was to analyze a set of ridesharing data from severa
 
 ### Results
 ![PyBer_summary chart](https://github.com/Tbrecke01/PyBer_Analysis/blob/main/Resources/PyBer_Summary_Chart.png)
+
 As to be expected, the vast majority of rides and the majority of fares come from the 'Urban' areas, followed by 'Suburban' and then 'Rural'. The total number of drivers follows this trend, with 'Urban' areas having nearly five times the number of drivers as 'Suburban' areas. This pattern continuing with 'Rural' areas having over six times less drivers than 'Suburban' areas. This reflects in the average fare, with 'Rural' areas being the most expensive, followed by 'Suburban' and 'Urban'.
 
 ![PyBer_graph summary](https://github.com/Tbrecke01/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
+
 Another interesting pattern emerges when analyzing 'Fare' by month. We can see that 'Urban' areas set the trend when it comes to 'Fare' peaks, with prices peaking several times starting in late February and continuing through March before peaking in April. 'Suburban' largely follows the trends set by 'Urban' but to a lesser degree, with a major peak in late February before falling off and not substantially rising until April. The most interesting data comes from the 'Rural' area which, with the exception of a late-February peak, largely follows it's own pattern when it comes to 'Fare' peaks. This could be due to the relatively-low amount of rides happening in this area, a quirk unique to the 'Rural' area, or some other as-yet unknown factor.
 
 ## Summary and Recommendations
